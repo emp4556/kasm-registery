@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'My Registery',
+    name: 'My Registry',
     description: 'Store for Kasm workspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https://emp4556.github.io/kasm-registery/',
-    contactUrl: 'https://github.com/emp4556/kasm-registery/issues',
+    listUrl: 'https://emp4556.github.io/kasm-registry/',
+    contactUrl: 'https://github.com/emp4556/kasm-registry/issues',
   },
   reactStrictMode: true,
   swcMinify: true,
